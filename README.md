@@ -17,7 +17,9 @@ To do this, VisitScotland:
 ## Data Used
 Visit Scotland open data available to download from the scot gov statistics site.
 access data on tourism rates in Scotland.
+
 | Dataset Name | link to data|
+|--------------|-------------|
 Council Areas|[here](https://www.opendata.nhs.scot/sl/dataset/geography-codes-and-labels/resource/967937c4-8d67-4f39-974f-fd58c4acfda5)
 Regional Domestic Tourism|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fregional-domestic-tourism)
 Scottish Accomodation Occupancy|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fscottish-accommodation-occupancy)
@@ -25,5 +27,5 @@ Tourism Day Visits - Activities|[here](https://statistics.gov.scot/resource?uri=
 Tourism Day Visits - Demographics|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---demographics)
 Tourism Day Visits - Location|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---location)
 Tourism Day Visits - Transport|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---transport)
-international passenger survey scotland 2019||[here]()
+international passenger survey scotland 2019||[here](https://tourismobservatory.scot/insights/international-visitors-to-scotland/)
 
