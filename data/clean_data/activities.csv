@@ -1,11 +1,11 @@
 year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2019,million pounds (GBP),1662,Shopping for items that you do not regularly buy,Expenditure,Shopping
-2016,million pounds (GBP),469,Watched live sporting events (not on TV),Expenditure,Live event
-2014,million pounds (GBP),892,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2016,million pounds (GBP),469,Watched live sporting events (not on TV),Expenditure,Live events
+2014,million pounds (GBP),892,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2017,million pounds (GBP),354,"Special personal events e.g. wedding, graduation",Expenditure,Other
-2015,million pounds (GBP),400,Watched live sporting events (not on TV),Expenditure,Live event
-2014,million pounds (GBP),421,Watched live sporting events (not on TV),Expenditure,Live event
-2013,million pounds (GBP),243,Watched live sporting events (not on TV),Expenditure,Live event
+2015,million pounds (GBP),400,Watched live sporting events (not on TV),Expenditure,Live events
+2014,million pounds (GBP),421,Watched live sporting events (not on TV),Expenditure,Live events
+2013,million pounds (GBP),243,Watched live sporting events (not on TV),Expenditure,Live events
 2015,million pounds (GBP),264,Leisure activities e.g. hobbies & evening classes,Expenditure,Leisure activity
 2018,million pounds (GBP),285,Leisure activities e.g. hobbies & evening classes,Expenditure,Leisure activity
 2014,million pounds (GBP),1536,Shopping for items that you do not regularly buy,Expenditure,Shopping
@@ -15,18 +15,18 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2014,million pounds (GBP),469,Leisure activities e.g. hobbies & evening classes,Expenditure,Leisure activity
 2019,million pounds (GBP),476,"Sport participation, e.g. exercise classes, gym",Expenditure,Leisure activity
 2017,million pounds (GBP),374,"Sport participation, e.g. exercise classes, gym",Expenditure,Leisure activity
-2015,million pounds (GBP),392,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2019,million pounds (GBP),629,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2014,million pounds (GBP),311,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2016,million pounds (GBP),205,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2017,million pounds (GBP),394,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2016,million pounds (GBP),1892,Went out for a meal,Expenditure,Drinking & Eating
-2014,million pounds (GBP),1966,Went out for a meal,Expenditure,Drinking & Eating
-2017,million pounds (GBP),551,Watched live sporting events (not on TV),Expenditure,Live event
-2013,million pounds (GBP),1675,Went out for a meal,Expenditure,Drinking & Eating
-2019,million pounds (GBP),551,Watched live sporting events (not on TV),Expenditure,Live event
-2013,million pounds (GBP),228,"Special public event e.g. festival, exhibition",Expenditure,Live event
-2018,million pounds (GBP),496,Watched live sporting events (not on TV),Expenditure,Live event
+2015,million pounds (GBP),392,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2019,million pounds (GBP),629,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2014,million pounds (GBP),311,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2016,million pounds (GBP),205,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2017,million pounds (GBP),394,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2016,million pounds (GBP),1892,Went out for a meal,Expenditure,Pubs & Restaurants
+2014,million pounds (GBP),1966,Went out for a meal,Expenditure,Pubs & Restaurants
+2017,million pounds (GBP),551,Watched live sporting events (not on TV),Expenditure,Live events
+2013,million pounds (GBP),1675,Went out for a meal,Expenditure,Pubs & Restaurants
+2019,million pounds (GBP),551,Watched live sporting events (not on TV),Expenditure,Live events
+2013,million pounds (GBP),228,"Special public event e.g. festival, exhibition",Expenditure,Live events
+2018,million pounds (GBP),496,Watched live sporting events (not on TV),Expenditure,Live events
 2018,million pounds (GBP),1538,Shopping for items that you do not regularly buy,Expenditure,Shopping
 2016,million pounds (GBP),273,"Special personal events e.g. wedding, graduation",Expenditure,Other
 2017,million pounds (GBP),1561,Shopping for items that you do not regularly buy,Expenditure,Shopping
@@ -42,19 +42,19 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2013,million pounds (GBP),147,Leisure activities e.g. hobbies & evening classes,Expenditure,Leisure activity
 2015,million pounds (GBP),142,"Special personal events e.g. wedding, graduation",Expenditure,Other
 2018,million pounds (GBP),893,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
-2019,million pounds (GBP),1111,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2019,million pounds (GBP),1111,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2019,million pounds (GBP),1059,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
 2017,million pounds (GBP),1276,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
-2018,million pounds (GBP),1150,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2018,million pounds (GBP),1150,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2019,million pounds (GBP),507,Leisure activities e.g. hobbies & evening classes,Expenditure,Leisure activity
-2013,million pounds (GBP),840,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2013,million pounds (GBP),840,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2015,million pounds (GBP),647,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
-2017,million pounds (GBP),1298,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2017,million pounds (GBP),1298,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2016,million pounds (GBP),69,"Day out to a beauty/health centre/spa, etc.",Expenditure,Leisure activity
 2013,million pounds (GBP),699,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
 2014,million pounds (GBP),571,"Outdoor leisure activities e.g. walking, golf",Expenditure,Leisure activity
-2016,million pounds (GBP),973,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
-2015,million pounds (GBP),876,"Night out to a bar, pub and/or club",Expenditure,Drinking & Eating
+2016,million pounds (GBP),973,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
+2015,million pounds (GBP),876,"Night out to a bar, pub and/or club",Expenditure,Pubs & Restaurants
 2013,million pounds (GBP),414,"Visitor attraction e.g. theme park, museum, zoo",Expenditure,Tourist attraction
 2015,million pounds (GBP),506,General day out/ to explore an area,Expenditure,Other
 2015,million pounds (GBP),345,"Visitor attraction e.g. theme park, museum, zoo",Expenditure,Tourist attraction
@@ -84,15 +84,15 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2017,million pounds (GBP),443,Day trips/excursions for other leisure purpose,Expenditure,Excursions
 2013,million pounds (GBP),143,"Sport participation, e.g. exercise classes, gym",Expenditure,Leisure activity
 2017,million pounds (GBP),5995,All,Expenditure,All
-2019,million pounds (GBP),2078,Went out for a meal,Expenditure,Drinking & Eating
+2019,million pounds (GBP),2078,Went out for a meal,Expenditure,Pubs & Restaurants
 2019,million pounds (GBP),5777,All,Expenditure,All
 2015,million pounds (GBP),3922,All,Expenditure,All
 2013,million pounds (GBP),1065,Visited friends or family for leisure,Expenditure,Visiting family/friends
-2015,million pounds (GBP),1631,Went out for a meal,Expenditure,Drinking & Eating
-2017,million pounds (GBP),2208,Went out for a meal,Expenditure,Drinking & Eating
+2015,million pounds (GBP),1631,Went out for a meal,Expenditure,Pubs & Restaurants
+2017,million pounds (GBP),2208,Went out for a meal,Expenditure,Pubs & Restaurants
 2016,million pounds (GBP),4916,All,Expenditure,All
 2013,million pounds (GBP),4647,All,Expenditure,All
-2018,million pounds (GBP),191,"Special public event e.g. festival, exhibition",Expenditure,Live event
+2018,million pounds (GBP),191,"Special public event e.g. festival, exhibition",Expenditure,Live events
 2018,million pounds (GBP),5474,All,Expenditure,All
 2017,million pounds (GBP),1818,Visited friends or family for leisure,Expenditure,Visiting family/friends
 2014,million pounds (GBP),5020,All,Expenditure,All
@@ -106,7 +106,7 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2019,million pounds (GBP),620,"Entertainment - to a cinema, concert or theatre",Expenditure,Entertainment
 2016,million pounds (GBP),1158,Visited friends or family for leisure,Expenditure,Visiting family/friends
 2015,million pounds (GBP),1186,Visited friends or family for leisure,Expenditure,Visiting family/friends
-2018,million pounds (GBP),1959,Went out for a meal,Expenditure,Drinking & Eating
+2018,million pounds (GBP),1959,Went out for a meal,Expenditure,Pubs & Restaurants
 2014,million pounds (GBP),1376,Visited friends or family for leisure,Expenditure,Visiting family/friends
 2017,million pounds (GBP),903,"Entertainment - to a cinema, concert or theatre",Expenditure,Entertainment
 2016,million pounds (GBP),604,"Entertainment - to a cinema, concert or theatre",Expenditure,Entertainment
@@ -140,40 +140,40 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2018,Million Visits,13,"Entertainment - to a cinema, concert or theatre",Visits,Entertainment
 2017,Million Visits,4,"Day out to a beauty/health centre/spa, etc.",Visits,Leisure activity
 2019,Million Visits,9,Day trips/excursions for other leisure purpose,Visits,Excursions
-2015,Million Visits,19,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
-2013,Million Visits,18,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
+2015,Million Visits,19,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
+2013,Million Visits,18,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
 2018,Million Visits,10,Day trips/excursions for other leisure purpose,Visits,Excursions
 2018,Million Visits,25,General day out/ to explore an area,Visits,Other
 2017,Million Visits,25,General day out/ to explore an area,Visits,Other
-2018,Million Visits,19,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
+2018,Million Visits,19,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
 2019,Million Visits,24,General day out/ to explore an area,Visits,Other
 2016,Million Visits,19,General day out/ to explore an area,Visits,Other
-2019,Million Visits,18,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
-2014,Million Visits,20,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
+2019,Million Visits,18,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
+2014,Million Visits,20,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
 2014,Million Visits,19,General day out/ to explore an area,Visits,Other
 2013,Million Visits,17,General day out/ to explore an area,Visits,Other
 2015,Million Visits,18,General day out/ to explore an area,Visits,Other
-2017,Million Visits,10,"Special public event e.g. festival, exhibition",Visits,Live event
+2017,Million Visits,10,"Special public event e.g. festival, exhibition",Visits,Live events
 2019,Million Visits,20,Shopping for items that you do not regularly buy,Visits,Shopping
-2018,Million Visits,7,"Special public event e.g. festival, exhibition",Visits,Live event
+2018,Million Visits,7,"Special public event e.g. festival, exhibition",Visits,Live events
 2018,Million Visits,18,Shopping for items that you do not regularly buy,Visits,Shopping
-2016,Million Visits,20,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
+2016,Million Visits,20,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
 2018,Million Visits,9,"Sport participation, e.g. exercise classes, gym",Visits,Leisure activity
 2016,Million Visits,8,"Sport participation, e.g. exercise classes, gym",Visits,Leisure activity
 2019,Million Visits,7,"Sport participation, e.g. exercise classes, gym",Visits,Leisure activity
 2017,Million Visits,21,Shopping for items that you do not regularly buy,Visits,Shopping
-2017,Million Visits,23,"Night out to a bar, pub and/or club",Visits,Drinking & Eating
+2017,Million Visits,23,"Night out to a bar, pub and/or club",Visits,Pubs & Restaurants
 2017,Million Visits,9,Day trips/excursions for other leisure purpose,Visits,Excursions
 2017,Million Visits,10,"Sport participation, e.g. exercise classes, gym",Visits,Leisure activity
-2019,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live event
+2019,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live events
 2016,Million Visits,18,Shopping for items that you do not regularly buy,Visits,Shopping
 2016,Million Visits,142,All,Visits,All
-2019,Million Visits,13,Watched live sporting events (not on TV),Visits,Live event
+2019,Million Visits,13,Watched live sporting events (not on TV),Visits,Live events
 2015,Million Visits,124,All,Visits,All
 2015,Million Visits,5,"Special personal events e.g. wedding, graduation",Visits,Other
-2015,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live event
+2015,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live events
 2015,Million Visits,24,"Outdoor leisure activities e.g. walking, golf",Visits,Leisure activity
-2015,Million Visits,12,Watched live sporting events (not on TV),Visits,Live event
+2015,Million Visits,12,Watched live sporting events (not on TV),Visits,Live events
 2016,Million Visits,5,"Special personal events e.g. wedding, graduation",Visits,Other
 2014,Million Visits,41,Visited friends or family for leisure,Visits,Visiting family/friends
 2014,Million Visits,4,"Special personal events e.g. wedding, graduation",Visits,Other
@@ -183,25 +183,25 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2018,Million Visits,45,Visited friends or family for leisure,Visits,Visiting family/friends
 2013,Million Visits,15,Shopping for items that you do not regularly buy,Visits,Shopping
 2019,Million Visits,30,"Outdoor leisure activities e.g. walking, golf",Visits,Leisure activity
-2016,Million Visits,6,"Special public event e.g. festival, exhibition",Visits,Live event
-2013,Million Visits,8,Watched live sporting events (not on TV),Visits,Live event
-2016,Million Visits,36,Went out for a meal,Visits,Drinking & Eating
+2016,Million Visits,6,"Special public event e.g. festival, exhibition",Visits,Live events
+2013,Million Visits,8,Watched live sporting events (not on TV),Visits,Live events
+2016,Million Visits,36,Went out for a meal,Visits,Pubs & Restaurants
 2014,Million Visits,17,Shopping for items that you do not regularly buy,Visits,Shopping
 2016,Million Visits,30,"Outdoor leisure activities e.g. walking, golf",Visits,Leisure activity
-2014,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live event
-2017,Million Visits,12,Watched live sporting events (not on TV),Visits,Live event
-2013,Million Visits,6,"Special public event e.g. festival, exhibition",Visits,Live event
-2016,Million Visits,12,Watched live sporting events (not on TV),Visits,Live event
-2014,Million Visits,9,Watched live sporting events (not on TV),Visits,Live event
-2018,Million Visits,11,Watched live sporting events (not on TV),Visits,Live event
+2014,Million Visits,8,"Special public event e.g. festival, exhibition",Visits,Live events
+2017,Million Visits,12,Watched live sporting events (not on TV),Visits,Live events
+2013,Million Visits,6,"Special public event e.g. festival, exhibition",Visits,Live events
+2016,Million Visits,12,Watched live sporting events (not on TV),Visits,Live events
+2014,Million Visits,9,Watched live sporting events (not on TV),Visits,Live events
+2018,Million Visits,11,Watched live sporting events (not on TV),Visits,Live events
 2013,Million Visits,22,"Outdoor leisure activities e.g. walking, golf",Visits,Leisure activity
 2016,Million Visits,44,Visited friends or family for leisure,Visits,Visiting family/friends
-2019,Million Visits,33,Went out for a meal,Visits,Drinking & Eating
+2019,Million Visits,33,Went out for a meal,Visits,Pubs & Restaurants
 2019,Million Visits,13,"Entertainment - to a cinema, concert or theatre",Visits,Entertainment
 2017,Million Visits,6,"Special personal events e.g. wedding, graduation",Visits,Other
 2015,Million Visits,46,Visited friends or family for leisure,Visits,Visiting family/friends
 2013,Million Visits,41,Visited friends or family for leisure,Visits,Visiting family/friends
-2017,Million Visits,39,Went out for a meal,Visits,Drinking & Eating
+2017,Million Visits,39,Went out for a meal,Visits,Pubs & Restaurants
 2018,Million Visits,9,Leisure activities e.g. hobbies & evening classes,Visits,Leisure activity
 2014,Million Visits,11,"Visitor attraction e.g. theme park, museum, zoo",Visits,Tourist attraction
 2016,Million Visits,13,"Visitor attraction e.g. theme park, museum, zoo",Visits,Tourist attraction
@@ -216,10 +216,10 @@ year,units,value,tourism_activity,breakdown_of_domestic_tourism,activity_type
 2017,Million Visits,151,All,Visits,All
 2013,Million Visits,4,"Special personal events e.g. wedding, graduation",Visits,Other
 2018,Million Visits,138,All,Visits,All
-2014,Million Visits,31,Went out for a meal,Visits,Drinking & Eating
-2015,Million Visits,35,Went out for a meal,Visits,Drinking & Eating
+2014,Million Visits,31,Went out for a meal,Visits,Pubs & Restaurants
+2015,Million Visits,35,Went out for a meal,Visits,Pubs & Restaurants
 2019,Million Visits,49,Visited friends or family for leisure,Visits,Visiting family/friends
 2019,Million Visits,6,"Special personal events e.g. wedding, graduation",Visits,Other
-2013,Million Visits,29,Went out for a meal,Visits,Drinking & Eating
-2018,Million Visits,38,Went out for a meal,Visits,Drinking & Eating
+2013,Million Visits,29,Went out for a meal,Visits,Pubs & Restaurants
+2018,Million Visits,38,Went out for a meal,Visits,Pubs & Restaurants
 2017,Million Visits,35,"Outdoor leisure activities e.g. walking, golf",Visits,Leisure activity
