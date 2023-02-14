@@ -1,6 +1,4 @@
-# Visit Scotland Tourism Analysis :palm_tree:
-
-- CodeClan final project
+# :palm_tree: Visit Scotland Tourism Analysis :palm_tree: (CodeClan final project)
 
 ## Brief
 
