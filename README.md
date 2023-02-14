@@ -1,4 +1,6 @@
-# Visit Scotland (CodeClan final project)
+# Visit Scotland Tourism Analysis :palm_tree:
+
+- CodeClan final project
 
 ## Brief
 
@@ -13,8 +15,7 @@ To do this, VisitScotland:
  * provides quality assurance to visitors and quality advice to our industry partners to help the industry meet - and strive to exceed - visitors' expectations.
 
 ## Data Used
-Visit Scotland open data available to download from the scot gov statistics site.
-access data on tourism rates in Scotland.
+Visit Scotland tourism open data which is freely available to download from the the links below.
 
 | Dataset Name | link to data|
 |--------------|-------------|
