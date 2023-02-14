@@ -1,5 +1,3 @@
-
-
 # Visit Scotland (CodeClan final project)
 
 ## Brief
@@ -28,3 +26,9 @@ Tourism Day Visits - Demographics|[here](https://statistics.gov.scot/resource?ur
 Tourism Day Visits - Location|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---location)
 Tourism Day Visits - Transport|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---transport)
 international passenger survey scotland 2019|[here](https://tourismobservatory.scot/insights/international-visitors-to-scotland)
+
+### Data cleaning 
+The cleaning steps can be found [here..](data/data_cleaning.ipynb)
+
+## Analysis
+All the analysis using the data can be found [here..](Analysis.ipynb)
