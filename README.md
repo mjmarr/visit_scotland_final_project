@@ -1,8 +1,8 @@
+## CodeClan final project
 
+# Visit Scotland Tourism Analysis :sunrise_over_mountains: 
 
-# Visit Scotland (CodeClan final project)
-
-## Brief
+## Brief :scroll:
 
 VisitScotland.com is the official consumer website of VisitScotland, Scotland's national tourist board.
 
@@ -14,9 +14,8 @@ To do this, VisitScotland:
  * provides information and inspiration to visitors and potential visitors so they get the best out of a visit to Scotland.
  * provides quality assurance to visitors and quality advice to our industry partners to help the industry meet - and strive to exceed - visitors' expectations.
 
-## Data Used
-Visit Scotland open data available to download from the scot gov statistics site.
-access data on tourism rates in Scotland.
+## Data Used :books:
+Visit Scotland tourism open data which is freely available to download from the the links below.
 
 | Dataset Name | link to data|
 |--------------|-------------|
@@ -28,3 +27,9 @@ Tourism Day Visits - Demographics|[here](https://statistics.gov.scot/resource?ur
 Tourism Day Visits - Location|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---location)
 Tourism Day Visits - Transport|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---transport)
 international passenger survey scotland 2019|[here](https://tourismobservatory.scot/insights/international-visitors-to-scotland)
+
+## Data cleaning :hammer:
+The cleaning steps can be found [here..](data/data_cleaning.ipynb)
+
+## Analysis :notebook_with_decorative_cover:
+All the analysis using the data can be found [here..](Analysis.ipynb)
