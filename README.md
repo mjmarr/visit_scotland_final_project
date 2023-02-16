@@ -31,5 +31,10 @@ international passenger survey scotland 2019|[here](https://tourismobservatory.s
 ## Data cleaning :hammer:
 The cleaning steps can be found [here..](data/data_cleaning.ipynb)
 
+specific cleaning for Q8 clustering testing etc can be found [here..](data/extra_cleaning.ipynb) data produced from this can be found [here](data/clean_data/countries/)
+
 ## Analysis :notebook_with_decorative_cover:
-All the analysis using the data can be found [here..](Analysis.ipynb)
+All the analysis using the data can be found [here..](analysis/analysis.ipynb)
+Machine learning for Q8: 
+- Clustering can be found [here..](analysis/q8_clustering.ipynb)
+- Predicting can be found [here..](analysis/q8_prediction.ipynb)
