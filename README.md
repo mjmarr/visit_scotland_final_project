@@ -26,7 +26,7 @@ Tourism Day Visits - Activities|[here](https://statistics.gov.scot/resource?uri=
 Tourism Day Visits - Demographics|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---demographics)
 Tourism Day Visits - Location|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---location)
 Tourism Day Visits - Transport|[here](https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftourism-day-visits---transport)
-international passenger survey scotland 2019|[here](https://tourismobservatory.scot/insights/international-visitors-to-scotland)
+International Passenger Survey Scotland|[here](https://tourismobservatory.scot/insights/international-visitors-to-scotland)
 
 ## Data cleaning :hammer:
 The cleaning steps can be found [here..](data/data_cleaning.ipynb)
